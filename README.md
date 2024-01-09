@@ -1,5 +1,5 @@
 ### Hello, there! I`m Paulo Ivo, Front-End developer! 🚀
-<h5>I am a business development and web development professional Currently, I am a student at Trybe, pursuing a Full Stack Web Development program with an expected completion date in April 2024. I am actively seeking opportunities in the field of Front-end development</h5>
+<h5>I am a business development and web development professional. Currently, I am a student at Trybe, pursuing a Full Stack Web Development program with an expected completion date in April 2024. I am actively seeking opportunities in the field of Front-end development</h5>
 
 <!--
 **pauloivoandrade/pauloivoandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
