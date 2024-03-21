@@ -25,7 +25,7 @@
 
 
 
-- 🔭 I’m currently looking for an opportunity as a Front-end developer junior or internship
+- 🔭 I’m currently looking for an opportunity as a Full-stack developer junior or internship
 - 🌱 I’m currently learning Back-end Development
 - 💬 Ask me about Front-end development
 - 📫 How to reach me: pauloivoasantos@gmail.com
