@@ -1,4 +1,4 @@
-### Hello, there! I`m Paulo Ivo, Front-End developer! 🚀
+### Hello, there! I`m Paulo Ivo, Full Stack developer! 🚀
 <h5>I am a business development and web development professional. Currently, I am a student at Trybe, pursuing a Full Stack Web Development program with an expected completion date in April 2024. I am actively seeking opportunities in the field of Front-end development</h5>
 
 <!--
